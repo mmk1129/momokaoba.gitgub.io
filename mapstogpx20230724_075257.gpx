@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2023</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2023</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.jp/maps/dir/35.7378785,139.6806019/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E8%B1%8A%E5%B3%B6%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1/@35.7384429,139.6805097,18z/am=t/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x6018ed4f3cf37a8d:0xe97d612662461c08!2m2!1d139.683065!2d35.738582!3e2?hl=ja&entry=tts&shorturl=1&hl=en</url-->
+    <time>2023-07-24T16:52:54Z</time>
+  </metadata>
+  <wpt lat="35.7378785" lon="139.6806019">
+    <name>Nerima City</name>
+    <desc>2-chōme-31 Asahigaoka, Nerima City, Tokyo 176-0005, Japan</desc>
+  </wpt>
+  <wpt lat="35.738582" lon="139.683065">
+    <name>東京都立豊島高等学校</name>
+    <desc>Toshima High School, 4 Chome-9-21 Chihaya, Toshima City, Tokyo 171-0044, Japan</desc>
+  </wpt>
+<trk>
+  <name>Nerima City to 東京都立豊島高等学校</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="35.737859" lon="139.6806748">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="35.73791" lon="139.68069">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="35.73795" lon="139.68071">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="35.73797" lon="139.68072">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="35.73799" lon="139.68072">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="35.73802" lon="139.68073">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="35.73804" lon="139.68073">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="35.73807" lon="139.68074">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="35.73816" lon="139.68078">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="35.73821" lon="139.6808">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="35.73824" lon="139.68082">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="35.7382393" lon="139.6808248">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="35.73831" lon="139.68074">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="35.73835" lon="139.68072">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="35.7383456" lon="139.6807189">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="35.73848" lon="139.68083">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="35.73853" lon="139.68087">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="35.73856" lon="139.68091">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="35.7386" lon="139.68097">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="35.73867" lon="139.68105">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="35.7387" lon="139.68107">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="35.7387" lon="139.68108">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="35.738705" lon="139.6810789">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="35.73872" lon="139.6811">
+    <name>TP024</name>
+  </trkpt>
+  <trkpt lat="35.73873" lon="139.68117">
+    <name>TP025</name>
+  </trkpt>
+  <trkpt lat="35.73881" lon="139.68163">
+    <name>TP026</name>
+  </trkpt>
+  <trkpt lat="35.73882" lon="139.6817">
+    <name>TP027</name>
+  </trkpt>
+  <trkpt lat="35.73885" lon="139.68187">
+    <name>TP028</name>
+  </trkpt>
+  <trkpt lat="35.73886" lon="139.68197">
+    <name>TP029</name>
+  </trkpt>
+  <trkpt lat="35.73888" lon="139.68207">
+    <name>TP030</name>
+  </trkpt>
+  <trkpt lat="35.73889" lon="139.68211">
+    <name>TP031</name>
+  </trkpt>
+  <trkpt lat="35.73896" lon="139.68242">
+    <name>TP032</name>
+  </trkpt>
+  <trkpt lat="35.73902" lon="139.68261">
+    <name>TP033</name>
+  </trkpt>
+  <trkpt lat="35.73907" lon="139.68279">
+    <name>TP034</name>
+  </trkpt>
+  <trkpt lat="35.73908" lon="139.68285">
+    <name>TP035</name>
+  </trkpt>
+  <trkpt lat="35.73909" lon="139.68289">
+    <name>TP036</name>
+  </trkpt>
+  <trkpt lat="35.7390932" lon="139.6828947">
+    <name>TP037</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
